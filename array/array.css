@@ -1,0 +1,18 @@
+body{
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.6;
+    margin: 10;
+    padding: 10;
+    background-color: #eee;
+}
+
+ul{
+    list-style: upper-roman;
+}
+
+li{
+    
+    margin: 0;
+    padding: 0;
+}
